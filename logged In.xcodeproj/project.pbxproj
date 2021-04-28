@@ -11,6 +11,7 @@
 		001242DF26387B1800C2FC37 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001242DE26387B1800C2FC37 /* ContentView.swift */; };
 		001242E126387B1C00C2FC37 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 001242E026387B1C00C2FC37 /* Assets.xcassets */; };
 		001242E426387B1C00C2FC37 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 001242E326387B1C00C2FC37 /* Preview Assets.xcassets */; };
+		001242EE26387F2D00C2FC37 /* 3512700.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 001242ED26387F2D00C2FC37 /* 3512700.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		001242E326387B1C00C2FC37 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		001242E526387B1C00C2FC37 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		001242E626387B1C00C2FC37 /* logged_In.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = logged_In.entitlements; sourceTree = "<group>"; };
+		001242ED26387F2D00C2FC37 /* 3512700.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3512700.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				001242DC26387B1800C2FC37 /* logged_InApp.swift */,
 				001242DE26387B1800C2FC37 /* ContentView.swift */,
 				001242E026387B1C00C2FC37 /* Assets.xcassets */,
+				001242ED26387F2D00C2FC37 /* 3512700.jpg */,
 				001242E526387B1C00C2FC37 /* Info.plist */,
 				001242E626387B1C00C2FC37 /* logged_In.entitlements */,
 				001242E226387B1C00C2FC37 /* Preview Content */,
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				001242EE26387F2D00C2FC37 /* 3512700.jpg in Resources */,
 				001242E426387B1C00C2FC37 /* Preview Assets.xcassets in Resources */,
 				001242E126387B1C00C2FC37 /* Assets.xcassets in Resources */,
 			);

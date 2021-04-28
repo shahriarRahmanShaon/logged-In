@@ -13,5 +13,12 @@ struct logged_InApp: App {
         WindowGroup {
             ContentView()
         }
+        .windowStyle(HiddenTitleBarWindowStyle())
+    }
+}
+extension NSTextField {
+    open override var focusRingType: NSFocusRingType {
+        get { .none }
+        set { }
     }
 }
